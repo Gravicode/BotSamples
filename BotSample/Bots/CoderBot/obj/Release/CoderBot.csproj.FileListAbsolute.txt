@@ -71,3 +71,50 @@ E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\CoderBot\bin\zh-hans\Micr
 E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\CoderBot\obj\Release\CoderBot.csprojResolveAssemblyReference.cache
 E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\CoderBot\obj\Release\Bot Application1.dll
 E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\CoderBot\obj\Release\Bot Application1.pdb
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Bot Application1.dll.config
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Bot Application1.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Bot Application1.pdb
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\System.Collections.Immutable.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Microsoft.CodeAnalysis.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Antlr3.Runtime.pdb
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Autofac.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\CSScriptLibrary.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Microsoft.Bot.Builder.FormFlow.Json.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\Newtonsoft.Json.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\System.Net.Http.Formatting.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\System.Web.Helpers.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\System.Web.Http.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\System.Web.Http.WebHost.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\System.Web.Mvc.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\System.Web.Optimization.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\System.Web.Razor.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\System.Web.WebPages.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\System.Web.WebPages.Razor.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\obj\Release\CoderBot.csprojResolveAssemblyReference.cache
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\obj\Release\Bot Application1.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\CoderBot\obj\Release\Bot Application1.pdb

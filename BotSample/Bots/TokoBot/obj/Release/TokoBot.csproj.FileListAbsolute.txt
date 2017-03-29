@@ -36,3 +36,30 @@ E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\ru\Microsoft.
 E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
 E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\obj\Release\Bot Application1.dll
 E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\obj\Release\Bot Application1.pdb
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\Bot Application1.dll.config
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\Bot Application1.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\Bot Application1.pdb
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\Autofac.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\Newtonsoft.Json.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\System.Net.Http.Formatting.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\System.Web.Http.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\System.Web.Http.WebHost.xml
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\obj\Release\TokoBot.csprojResolveAssemblyReference.cache
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\obj\Release\Bot Application1.dll
+C:\Users\mifma\Documents\GitHub\BotSamples\BotSample\Bots\TokoBot\obj\Release\Bot Application1.pdb

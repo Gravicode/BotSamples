@@ -84,7 +84,7 @@ namespace Bot_Luis
                     List<CardAction> cardButtons = new List<CardAction>();
                     CardAction plButton = new CardAction()
                     {
-                        Value = $"https://www.google.co.id/?q={selfood}",
+                        Value = $"https://www.google.co.id/?q={selfood} food",
                         Type = "openUrl",
                         Title = "Cari"
                     };
