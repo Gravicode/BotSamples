@@ -1,0 +1,78 @@
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\obj\Debug\Bot-Luis.csprojResolveAssemblyReference.cache
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Bot Application1.dll.config
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Bot Application1.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Bot Application1.pdb
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Autofac.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Chronic.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Microsoft.Bot.Builder.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Microsoft.Bot.Connector.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Microsoft.Rest.ClientRuntime.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Newtonsoft.Json.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\System.Net.Http.Formatting.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\System.Web.Http.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\System.Web.Http.WebHost.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Autofac.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Microsoft.Bot.Builder.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Microsoft.Bot.Connector.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Microsoft.Rest.ClientRuntime.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\Newtonsoft.Json.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\System.IdentityModel.Tokens.Jwt.pdb
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\System.Net.Http.Formatting.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\System.Web.Http.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\System.Web.Http.WebHost.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\obj\Debug\Bot Application1.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\Bot-Luis\obj\Debug\Bot Application1.pdb
+C:\Users\mifma\Documents\GitHub\BotSample\Bots\Bot-Luis\obj\Debug\Bot-Luis.csprojResolveAssemblyReference.cache
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\obj\Debug\Bot-Luis.csprojResolveAssemblyReference.cache
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Bot Application1.dll.config
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Bot Application1.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Bot Application1.pdb
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\M2Mqtt.Net.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Microsoft.Bot.Builder.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Microsoft.Bot.Connector.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Autofac.xml
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\M2Mqtt.Net.pdb
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Microsoft.Bot.Builder.xml
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Microsoft.Bot.Connector.xml
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Newtonsoft.Json.xml
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\System.Net.Http.Formatting.xml
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\System.Web.Http.xml
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\System.Web.Http.WebHost.xml
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\obj\Debug\Bot Application1.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\obj\Debug\Bot Application1.pdb
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Autofac.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\Newtonsoft.Json.dll
+C:\Users\mifma\Documents\GitHub\BotSample\BotSample\Bots\Bot-Luis\bin\System.IdentityModel.Tokens.Jwt.dll
